@@ -1,2 +1,2 @@
-- # AjasCode.github.io
-- Ajá's Web Dev Wonderland
+# AjasCode.github.io
+Ajá's Web Dev Wonderland
